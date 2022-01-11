@@ -1,0 +1,262 @@
+{
+    "locations": [
+        {
+            "Id": 1,
+            "name": "Hamilton Place",
+            "address": "2318 Lifestyle Way",
+            "city": "Chattanooga",
+            "state": "TN",
+            "zip":"37341",
+            "phone":"612-204-8204"
+            
+        },
+        {
+            "Id": 2,
+            "name": "Downtown",
+            "address": "9218 Bernier Coves",
+            "city": "Chattanooga",
+            "state": "TN",
+            "zip":"24727",
+            "phone":"227-843-7415"
+        },
+        {
+            "Id": 3,
+            "name": "Hixson",
+            "address": "212 Schmidt Fields",
+            "city": "Hixson",
+            "state": "TN",
+            "zip":"51688",
+            "phone":"762-393-3200"
+            
+        },
+        {
+            "Id": 4,
+            "name": "North Shore",
+            "address": "464 Alice Burgs",
+            "city": "Chattanooga",
+            "state": "TN",
+            "zip":"81521",
+            "phone":"960-413-9326"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Wonka Bar",
+            "price": 5.99,
+            "productTypeId": 1
+        },
+        {
+            "id":2,
+            "name": "Everlasting Gobstopper",
+            "price": 7.99,
+            "productTypeId": 2
+        },
+        {
+            "id": 3,
+            "name": "Fizzy Lifting Drink",
+            "price": 3.25,
+            "productTypeId":3
+        },
+        {
+            "id":4,
+            "name": "Lickable Wallpaper",
+            "price":4.95,
+            "productTypeId":4
+        },
+        {
+            "id":5,
+            "name":"Wonka Gum",
+            "price":2.50,
+            "productTypeId":5
+        },
+        {
+            "id":6,
+            "name":"Kandy Korner Bars",
+            "price":5.99,
+            "productTypeId":1
+        },
+        {
+            "id":7,
+            "name":"Nerds",
+            "price":3.25,
+            "productTypeId":2
+        },
+        {
+            "id":8,
+            "name":"Hair Toffee",
+            "price":9.00,
+            "productTypeId":4
+        }
+    ],
+    "employees": [
+        {
+            "id":1,
+            "name":"Janice Runolfsdottir" ,
+            "storeId":1
+        },
+        {
+            "id":2,
+            "name":"Percy Larkin" ,
+            "storeId":2
+        },
+        {
+            "id":3,
+            "name":"Alaina Leffler" ,
+            "storeId":3
+        },
+        {
+            "id":4,
+            "name":"Myriam Maggio" ,
+            "storeId":4
+        },
+        {
+            "id":5,
+            "name":"Rafael Murray" ,
+            "storeId":1
+        },
+        {
+            "id":6,
+            "name":"Terrance Kuhic" ,
+            "storeId":2
+        },
+        {
+            "id":7,
+            "name":"Ted Becker" ,
+            "storeId":3
+        },
+        {
+            "id":8,
+            "name":"Gloria Treutel" ,
+            "storeId":4
+        },
+        {
+            "id":9,
+            "name":"Christ Howell" ,
+            "storeId":1
+        },
+        {
+            "id":10,
+            "name":"Bessie Wolff" ,
+            "storeId":2
+        },
+        {
+            "id":11,
+            "name":"Raquel Anderson" ,
+            "storeId":3
+        },
+        {
+            "id":12,
+            "name":"Jazlyn Hilll" ,
+            "storeId":4
+        }
+    ],
+    "productTypes": [
+        {
+            "id":1,
+            "name":"Chocolate"
+        },
+        {
+            "id":2,
+            "name": "Hard Candy"
+        },
+        {
+            "id":3,
+            "name":"Beverage"
+        },
+        {
+            "id":4,
+            "name":"Specialty/experimental"
+        },
+        {
+            "id":5,
+            "name":"Gum"
+        }
+    ],
+    "customers": [
+        {
+            "id":1,
+            "name":"Nova Rempel",
+            "email":"cumque@sydnee.biz"
+        },
+        {
+            "id":2,
+            "name":"Herminio Turcotte",
+            "email":"optio@malcolm.biz"
+        },
+        {
+            "id":3,
+            "name":"Monica Hegmann",
+            "email":"repellat@tatyana.com"
+        },
+        {
+            "id":4,
+            "name":"Arvid Kuhn",
+            "email":"molestiae@warren.net"
+        },
+        {
+            "id":5,
+            "name":"Cedrick Dicki",
+            "email":"distinctio@justyn.net"
+        },
+        {
+            "id":6,
+            "name":"Stella Botsford",
+            "email":"fugiat@shawna.biz"
+        },
+        {
+            "id":7,
+            "name":"Aaron Stehr",
+            "email":"id@linnea.biz"
+        },
+        {
+            "id":8,
+            "name":"Gaetano Harris",
+            "email":"aut@rasheed.com"
+        },
+        {
+            "id":9,
+            "name":"Breanne Wunsch",
+            "email":"quas@andre.name"
+        },
+        {
+            "id":10,
+            "name":"Linnie Collier",
+            "email":"ratione@alek.info"
+        },
+        {
+            "id":11,
+            "name":"Dana Murray",
+            "email":"et@anya.com"
+        },
+        {
+            "id":12,
+            "name":"Nedra Hagenes",
+            "email":"consequuntur@spencer.biz"
+        },
+        {
+            "id":13,
+            "name":"Brian Pouros",
+            "email":"ea@erna.com"
+        },
+        {
+            "id":14,
+            "name":"Efren Kiehn",
+            "email":"eius@ova.biz"
+        },
+        {
+            "id":15,
+            "name":"Bennett Keeling",
+            "email":"aliquid@desmond.org"
+        }
+    ],
+    "purchases": [
+        {
+            "id": 1,
+            "locationId": 1,
+            "customerId": 12,
+            "employeeId": 3,
+            "totalSpent": 5.75
+        }
+    ]
+}
