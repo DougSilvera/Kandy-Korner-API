@@ -204,6 +204,15 @@
       "phone": "4235285995",
       "locationId": 3,
       "id": 13
+    },
+    {
+      "name": "Jury Byrd",
+      "manager": true,
+      "fulltime": true,
+      "hourlyRate": "55",
+      "phone": "6152554578",
+      "locationId": 2,
+      "id": 14
     }
   ],
   "productTypes": [
@@ -311,7 +320,16 @@
       "locationId": 1,
       "customerId": 12,
       "employeeId": 3,
-      "totalSpent": 5.75
+      "totalSpent": 5.75,
+      "timestamp":1610664445
+    },
+    {
+      "id": 2,
+      "locationId": 2,
+      "customerId": 9,
+      "employeeId": 14,
+      "totalSpent": 25,
+      "timestamp":1642200445
     }
   ]
 }
