@@ -125,15 +125,6 @@
       "locationId": 4
     },
     {
-      "id": 5,
-      "name": "Rafael Murray",
-      "manager": false,
-      "fulltime": false,
-      "hourlyRate": 15,
-      "phone": "248-989-9008",
-      "locationId": 1
-    },
-    {
       "id": 6,
       "name": "Terrance Kuhic",
       "manager": false,
@@ -159,15 +150,6 @@
       "hourlyRate": 15,
       "phone": "654-228-6053",
       "locationId": 4
-    },
-    {
-      "id": 9,
-      "name": "Christ Howell",
-      "manager": false,
-      "fulltime": false,
-      "hourlyRate": 12,
-      "phone": "843-562-7691",
-      "locationId": 1
     },
     {
       "id": 10,
@@ -241,95 +223,254 @@
     {
       "id": 1,
       "name": "Nova Rempel",
+      "address": "3344 Ullrich Circles",
+      "city": "Dachside",
+      "state": "AR",
+      "zip": "09137",
       "email": "cumque@sydnee.biz"
     },
     {
       "id": 2,
       "name": "Herminio Turcotte",
+      "address": "803 Kreiger Prairie",
+      "city": "New Kristaburgh",
+      "state": "OR",
+      "zip": "57925",
       "email": "optio@malcolm.biz"
     },
     {
       "id": 3,
       "name": "Monica Hegmann",
+      "address": "944 Alexandrea Knolls",
+      "city": "South Aprilchester",
+      "state": "OH",
+      "zip": "70977",
       "email": "repellat@tatyana.com"
     },
     {
       "id": 4,
       "name": "Arvid Kuhn",
+      "address": "85016 Glen Ridges",
+      "city": "Terrenceburgh",
+      "state": "CA",
+      "zip": "77954-6789",
       "email": "molestiae@warren.net"
     },
     {
       "id": 5,
       "name": "Cedrick Dicki",
+      "address": "71222 Louvenia Highway",
+      "city": "Gardnerview",
+      "state": "AR",
+      "zip": "63740-5840",
       "email": "distinctio@justyn.net"
     },
     {
       "id": 6,
       "name": "Stella Botsford",
+      "address": "295 Schowalter Branch",
+      "city": "New Carolport",
+      "state": "WV",
+      "zip": "38963-7744",
       "email": "fugiat@shawna.biz"
     },
     {
       "id": 7,
       "name": "Aaron Stehr",
+      "address": "08552 Owen Crescent",
+      "city": "West Marcus",
+      "state": "ID",
+      "zip": "94530",
       "email": "id@linnea.biz"
     },
     {
       "id": 8,
       "name": "Gaetano Harris",
+      "address": "90844 McKenzie Drive",
+      "city": "Smithside",
+      "state": "HI",
+      "zip": "66267",
       "email": "aut@rasheed.com"
     },
     {
       "id": 9,
       "name": "Breanne Wunsch",
+      "address": "269 Schumm Stream",
+      "city": "Lake Mariannehaven",
+      "state": "MS",
+      "zip": "17595",
       "email": "quas@andre.name"
     },
     {
       "id": 10,
       "name": "Linnie Collier",
+      "address": "314 Schneider Drives",
+      "city": "Lake Wymanton",
+      "state": "VA",
+      "zip": "72143",
       "email": "ratione@alek.info"
     },
     {
       "id": 11,
       "name": "Dana Murray",
+      "address": "6497 Heller Locks",
+      "city": "New Davion",
+      "state": "ME",
+      "zip": "84077-8167",
       "email": "et@anya.com"
     },
     {
       "id": 12,
       "name": "Nedra Hagenes",
+      "address": "77288 Joany Hills",
+      "city": "Beverlyhaven",
+      "state": "GA",
+      "zip": "83357",
       "email": "consequuntur@spencer.biz"
     },
     {
       "id": 13,
       "name": "Brian Pouros",
+      "address": "3734 Lucious Mountains",
+      "city": "Lake Jocelyn",
+      "state": "WV",
+      "zip": "67836",
       "email": "ea@erna.com"
     },
     {
       "id": 14,
       "name": "Efren Kiehn",
+      "address": "218 Hintz Overpass",
+      "city": "Hayesborough",
+      "state": "OR",
+      "zip": "82996-5845",
       "email": "eius@ova.biz"
     },
     {
       "id": 15,
       "name": "Bennett Keeling",
+      "address": "605 Taryn Forest",
+      "city": "Jarrodborough",
+      "state": "ID",
+      "zip": "62840",
       "email": "aliquid@desmond.org"
+    },
+    {
+      "name": "Douglas Silvera",
+      "address": "7518 Rempel Centers",
+      "city": "Vontown",
+      "state": "MI",
+      "zip": "82595",
+      "email": "doug@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "Seymour Butts",
+      "email": "see.butts@gmail.com",
+      "address": "5285 Paradox way",
+      "city": "chattanooga",
+      "state": "TN",
+      "zip": "37341",
+      "id": 17
     }
   ],
   "purchases": [
     {
-      "id": 1,
-      "locationId": 1,
-      "customerId": 12,
-      "employeeId": 3,
-      "totalSpent": 5.75,
-      "timestamp":1610664445
+      "customerId": 3,
+      "timestamp": 1642631210787,
+      "id": 1
     },
     {
-      "id": 2,
-      "locationId": 2,
-      "customerId": 9,
-      "employeeId": 14,
-      "totalSpent": 25,
-      "timestamp":1642200445
+      "customerId": 3,
+      "timestamp": 1642631218813,
+      "id": 2
+    },
+    {
+      "customerId": 3,
+      "timestamp": 1642631228868,
+      "id": 3
+    },
+    {
+      "customerId": 3,
+      "timestamp": 1642631240775,
+      "id": 4
+    },
+    {
+      "customerId": 3,
+      "timestamp": 1642631253850,
+      "id": 5
+    }
+  ],
+  "purchaseItems": [
+    {
+      "productId": 1,
+      "purchaseId": 1,
+      "id": 1
+    },
+    {
+      "productId": 1,
+      "purchaseId": 2,
+      "id": 2
+    },
+    {
+      "productId": 6,
+      "purchaseId": 2,
+      "id": 3
+    },
+    {
+      "productId": 1,
+      "purchaseId": 3,
+      "id": 4
+    },
+    {
+      "productId": 6,
+      "purchaseId": 3,
+      "id": 5
+    },
+    {
+      "productId": 2,
+      "purchaseId": 3,
+      "id": 6
+    },
+    {
+      "productId": 1,
+      "purchaseId": 4,
+      "id": 7
+    },
+    {
+      "productId": 6,
+      "purchaseId": 4,
+      "id": 8
+    },
+    {
+      "productId": 2,
+      "purchaseId": 4,
+      "id": 9
+    },
+    {
+      "productId": 7,
+      "purchaseId": 4,
+      "id": 10
+    },
+    {
+      "productId": 3,
+      "purchaseId": 5,
+      "id": 11
+    },
+    {
+      "productId": 4,
+      "purchaseId": 5,
+      "id": 12
+    },
+    {
+      "productId": 8,
+      "purchaseId": 5,
+      "id": 13
+    },
+    {
+      "productId": 5,
+      "purchaseId": 5,
+      "id": 14
     }
   ]
 }
